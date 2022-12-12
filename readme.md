@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/CbpT7sy.jpg" alt="FirebaseChat" title="FirebaseChat" />
 </p>
 
-React Native chat application using Firebase backend. 
-
 In this project We have used following Firebase serivces.
 * **Firebase Authentication** : For authentication user by phone number
 * **Firebase RealTime Database** : That's we for handle realtime chat
